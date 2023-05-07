@@ -9,10 +9,31 @@
     <description>Recent content on Mano Svetaine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 May 2023 16:05:38 +0300</lastBuildDate>
+    <lastBuildDate>Sun, 07 May 2023 16:59:15 +0300</lastBuildDate>
     
 	<atom:link href="https://L4uris.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Paveiksliukas Kietas</title>
+      <link>https://L4uris.github.io/posts/paveiksliukas-kietas/</link>
+      <pubDate>Sun, 07 May 2023 16:59:15 +0300</pubDate>
+      
+      <guid>https://L4uris.github.io/posts/paveiksliukas-kietas/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Sus
+PS C:\Users\robol\Downloads\lab4\hugo\svetaine&amp;gt; hugo new posts/&amp;lsquo;Paveiksliukas kietas&amp;rsquo;.md Content &amp;ldquo;C:\Users\robol\Downloads\lab4\hugo\svetaine\content\posts\Paveiksliukas kietas.md&amp;rdquo; created
+          
+        
+        </description>
+    </item>
     
     <item>
       <title>pirmas blogas</title>
